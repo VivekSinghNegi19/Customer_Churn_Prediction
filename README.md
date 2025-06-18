@@ -115,7 +115,7 @@ jupyter notebook notebooks/Customer_Churn_Prediction_using_ML.ipynb
 
 ## 🙋‍♂️ Author
 
-[Vivek Negi](https://www.linkedin.com/in/your-profile)
+[Vivek Negi](www.linkedin.com/in/vivek-singh-negi22)
 
 ---
 
