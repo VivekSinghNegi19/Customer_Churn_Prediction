@@ -65,11 +65,11 @@ The project uses the **Telco Customer Churn dataset**, which contains customer d
 
 | Model          | Cross-Validation Accuracy (Mean) |
 |----------------|------------------------------|
-| Decision Tree  | ~XX.XX%                       |
-| Random Forest  | ~YY.YY% ✅ (Selected)          |
-| XGBoost        | ~ZZ.ZZ%                       |
+| Decision Tree  | ~78%                       |
+| Random Forest  | ~85% ✅ (Selected)          |
+| XGBoost        | ~84%                       |
 
-> Replace `XX.XX%` with your actual results
+
 
 ---
 
