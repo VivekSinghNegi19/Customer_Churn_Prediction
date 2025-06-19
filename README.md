@@ -77,7 +77,7 @@ The project uses the **Telco Customer Churn dataset**, which contains customer d
 
 This project successfully predicted customer churn using a structured ML pipeline. After comparing three models, **Random Forest** was selected based on its accuracy and generalization ability. Using **Stratified Cross-Validation** and **SMOTE** improved model reliability and robustness.
 
-The project demonstrates the end-to-end ML workflow, from preprocessing to deployment-ready modeling — making it a strong portfolio project for data analytics and ML roles.
+The project demonstrates the end-to-end ML workflow, from preprocessing to deployment-ready modeling.
 
 ---
 
